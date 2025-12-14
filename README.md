@@ -1,47 +1,55 @@
-Hi, I'm Suhrid Marwah
-🚀 Frontend Developer | UI/UX Enthusiast | Python Learner
+# Hi, I'm **Suhrid Marwah** 🚀  
+### Frontend Developer | UI/UX Enthusiast | Python Learner
 
-I love building clean, modern, and animated web experiences.
-Currently exploring React, improving my UI/UX skills, and actively learning & working on Python.
+I love building clean, modern, and animated web experiences. Currently exploring **React**, improving my **UI/UX skills**, and actively learning & working on **Python**.
 
-🔥 What I Do
+---
 
-✨ Build modern, smooth & interactive frontend interfaces
+## 🔥 What I Do
 
-🎨 Focus on clean UI design & seamless user experiences
+- ✨ Build modern, smooth & interactive frontend interfaces  
+- 🎨 Focus on clean UI design & seamless user experiences  
+- 🧠 Learn + apply core JavaScript concepts deeply  
+- 🐍 Exploring Python for automation & future projects  
+- 📈 Aim to create meaningful and polished projects  
 
-🧠 Learn + apply core JS concepts deeply
+---
 
-🐍 Exploring Python for automation & future projects
+## 🧰 Tech Stack
 
-📈 Aim to create meaningful and polished projects
+**Frontend:** HTML • CSS • JavaScript • React (learning)  
+**Design:** UI/UX • Animations  
+**Backend Learning:** Python basics  
 
-🧰 Tech Stack
+---
 
-Frontend: HTML • CSS • JavaScript • React (learning)
-Design: UI/UX • Animations
-Backend Learning: Python basics
+## 📌 Featured Projects
 
-📌 Featured Projects
+### **📘 FocusFlow**  
+A modern productivity & study-tracking tool.
 
-FocusFlow — A modern productivity & study-tracking tool
+### **🧭 Steady Steps OS**  
+A creative UI concept featuring smooth animations and a unique design approach.
 
-Steady Steps OS — Creative UI concept with smooth animations
+**More coming soon… 🚧**
 
-More coming soon… 🚧
+---
 
-🎯 Currently Working On
+## 🎯 Currently Working On
 
-Sharpening JavaScript & React
+- Sharpening **JavaScript & React**  
+- Making my projects **cleaner, faster & more professional**  
+- Learning **Python** consistently  
 
-Making my projects cleaner, faster & more professional
+---
 
-Learning Python consistently
+## 🎓 Education
 
-🎓 Education
+**Student at — Polaris School Of Technology, Bengaluru**
 
-Student at — Polaris School Of Technology,Bengaluru
+---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-📩 Feel free to explore my repos — more projects coming!
+📩 Feel free to explore my repositories — more projects coming soon!
+
