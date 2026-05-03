@@ -46,10 +46,10 @@
 
 | Project | Essence | Tech Stack |
 | :--- | :--- | :--- |
-| **✨ FocusFlow** | A productivity sanctuary designed to help students manage tasks and find their flow. | JavaScript, HTML, CSS |
-| **🎬 Exponent** | A sleek, real-time Market Analyzer that lets users track stock prices, trends, news, and historical performance all in one place. | JS, API Integration |
-| **💰 Steady-Steps** | Steady Steps is your personal productivity command center, designed to turn chaotic days into focused achievements with a stunning, futuristic interface.| Python, JavaScript,CSS |
-| **💻 CareLink-Bharatr** | A sleek, minimalist tool to refine typing precision and speed with modern UI. | HTML, CSS, JS |
+| **FocusFlow** | A productivity sanctuary designed to help students manage tasks and find their flow. | JavaScript, HTML, CSS |
+| **Exponent** | A sleek, real-time Market Analyzer that lets users track stock prices, trends, news, and historical performance all in one place. | JS, API Integration |
+| **Steady-Steps** | Steady Steps is your personal productivity command center, designed to turn chaotic days into focused achievements with a stunning, futuristic interface.| Python, JavaScript,CSS |
+| **CareLink-Bharatr** | A sleek, minimalist tool to refine typing precision and speed with modern UI. | HTML, CSS, JS |
 
 ## Tech Stack
 
